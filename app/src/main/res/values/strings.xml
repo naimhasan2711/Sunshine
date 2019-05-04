@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Today Weather Fragment</string>
+    <string name="weather_is_dhaka_bd">Weather is Dhaka,BD</string>
+    <string name="_20_c">20°C</string>
+</resources>
